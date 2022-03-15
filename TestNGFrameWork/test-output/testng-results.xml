@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="16" passed="16">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="511536" started-at="2022-03-15T14:58:51 IST" finished-at="2022-03-15T15:07:22 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="511536" started-at="2022-03-15T14:58:51 IST" finished-at="2022-03-15T15:07:22 IST">
+      <class name="com.test.Test">
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="38798" started-at="2022-03-15T14:58:51 IST" finished-at="2022-03-15T14:59:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase001()[pri:0, instance:com.test.Test@650e52]" name="testCase001" duration-ms="35098" started-at="2022-03-15T14:59:30 IST" description="Verify the lgoo fucntionlity" finished-at="2022-03-15T15:00:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase001 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="5229" started-at="2022-03-15T15:00:05 IST" finished-at="2022-03-15T15:00:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="21334" started-at="2022-03-15T15:00:10 IST" finished-at="2022-03-15T15:00:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase002()[pri:1, instance:com.test.Test@650e52]" name="testCase002" duration-ms="29667" started-at="2022-03-15T15:00:31 IST" description="Verify the men manu select functionality" finished-at="2022-03-15T15:01:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase002 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="2033" started-at="2022-03-15T15:01:01 IST" finished-at="2022-03-15T15:01:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="33485" started-at="2022-03-15T15:01:03 IST" finished-at="2022-03-15T15:01:37 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase003()[pri:2, instance:com.test.Test@650e52]" name="testCase003" duration-ms="1818" started-at="2022-03-15T15:01:37 IST" description="Verify the men menu mouse over functionality" finished-at="2022-03-15T15:01:38 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase003 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="4127" started-at="2022-03-15T15:01:38 IST" finished-at="2022-03-15T15:01:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="25593" started-at="2022-03-15T15:01:42 IST" finished-at="2022-03-15T15:02:08 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase004()[pri:3, instance:com.test.Test@650e52]" name="testCase004" duration-ms="23989" started-at="2022-03-15T15:02:08 IST" description="Verify the women manu select functionality" finished-at="2022-03-15T15:02:32 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase004 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="1559" started-at="2022-03-15T15:02:32 IST" finished-at="2022-03-15T15:02:34 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="14195" started-at="2022-03-15T15:02:34 IST" finished-at="2022-03-15T15:02:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase005()[pri:4, instance:com.test.Test@650e52]" name="testCase005" duration-ms="328" started-at="2022-03-15T15:02:48 IST" description="Verify the women menu mouse over functionality" finished-at="2022-03-15T15:02:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase005 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="1311" started-at="2022-03-15T15:02:48 IST" finished-at="2022-03-15T15:02:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="13623" started-at="2022-03-15T15:02:49 IST" finished-at="2022-03-15T15:03:03 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase006()[pri:5, instance:com.test.Test@650e52]" name="testCase006" duration-ms="20873" started-at="2022-03-15T15:03:03 IST" description="Verify the Kids manu select functionality" finished-at="2022-03-15T15:03:24 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase006 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="1160" started-at="2022-03-15T15:03:24 IST" finished-at="2022-03-15T15:03:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="14487" started-at="2022-03-15T15:03:25 IST" finished-at="2022-03-15T15:03:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase007()[pri:6, instance:com.test.Test@650e52]" name="testCase007" duration-ms="313" started-at="2022-03-15T15:03:40 IST" description="Verify the Kids menu mouse over functionality" finished-at="2022-03-15T15:03:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase007 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="1345" started-at="2022-03-15T15:03:40 IST" finished-at="2022-03-15T15:03:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="18530" started-at="2022-03-15T15:03:41 IST" finished-at="2022-03-15T15:04:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase008()[pri:7, instance:com.test.Test@650e52]" name="testCase008" duration-ms="18676" started-at="2022-03-15T15:04:00 IST" description="Verify the Home &amp; living manu select functionality" finished-at="2022-03-15T15:04:18 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase008 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="1829" started-at="2022-03-15T15:04:18 IST" finished-at="2022-03-15T15:04:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="12326" started-at="2022-03-15T15:04:20 IST" finished-at="2022-03-15T15:04:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase009()[pri:8, instance:com.test.Test@650e52]" name="testCase009" duration-ms="399" started-at="2022-03-15T15:04:33 IST" description="Verify the Home &amp; living menu mouse over functionality" finished-at="2022-03-15T15:04:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase009 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="1476" started-at="2022-03-15T15:04:33 IST" finished-at="2022-03-15T15:04:35 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="13715" started-at="2022-03-15T15:04:35 IST" finished-at="2022-03-15T15:04:48 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase010()[pri:9, instance:com.test.Test@650e52]" name="testCase010" duration-ms="18664" started-at="2022-03-15T15:04:48 IST" description="Verify the Beauty manu select functionality" finished-at="2022-03-15T15:05:07 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase010 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="1813" started-at="2022-03-15T15:05:07 IST" finished-at="2022-03-15T15:05:09 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="10889" started-at="2022-03-15T15:05:09 IST" finished-at="2022-03-15T15:05:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase011()[pri:10, instance:com.test.Test@650e52]" name="testCase011" duration-ms="318" started-at="2022-03-15T15:05:20 IST" description="Verify the Beauty menu mouse over functionality" finished-at="2022-03-15T15:05:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase011 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="1153" started-at="2022-03-15T15:05:20 IST" finished-at="2022-03-15T15:05:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="18207" started-at="2022-03-15T15:05:21 IST" finished-at="2022-03-15T15:05:39 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase012()[pri:11, instance:com.test.Test@650e52]" name="testCase012" duration-ms="293" started-at="2022-03-15T15:05:39 IST" description="Verify the Profile menu mouse over functionality" finished-at="2022-03-15T15:05:40 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase012 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="1140" started-at="2022-03-15T15:05:40 IST" finished-at="2022-03-15T15:05:41 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="11626" started-at="2022-03-15T15:05:41 IST" finished-at="2022-03-15T15:05:52 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase013()[pri:12, instance:com.test.Test@650e52]" name="testCase013" duration-ms="6507" started-at="2022-03-15T15:05:52 IST" description="Verify the Wishlist manu select functionality" finished-at="2022-03-15T15:05:59 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase013 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="1823" started-at="2022-03-15T15:05:59 IST" finished-at="2022-03-15T15:06:01 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="10408" started-at="2022-03-15T15:06:01 IST" finished-at="2022-03-15T15:06:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase014()[pri:13, instance:com.test.Test@650e52]" name="testCase014" duration-ms="18604" started-at="2022-03-15T15:06:11 IST" description="Verify the Bag manu select functionality" finished-at="2022-03-15T15:06:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase014 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="1079" started-at="2022-03-15T15:06:30 IST" finished-at="2022-03-15T15:06:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="11566" started-at="2022-03-15T15:06:31 IST" finished-at="2022-03-15T15:06:42 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase015()[pri:14, instance:com.test.Test@650e52]" name="testCase015" duration-ms="22362" started-at="2022-03-15T15:06:42 IST" description="Validate the user want to search some product " finished-at="2022-03-15T15:07:05 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase015 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="1185" started-at="2022-03-15T15:07:05 IST" finished-at="2022-03-15T15:07:06 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+        <test-method status="PASS" signature="envirnmentSetUp()[pri:0, instance:com.test.Test@650e52]" name="envirnmentSetUp" is-config="true" duration-ms="14745" started-at="2022-03-15T15:07:06 IST" finished-at="2022-03-15T15:07:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- envirnmentSetUp -->
+        <test-method status="PASS" signature="testCase016()[pri:15, instance:com.test.Test@650e52]" name="testCase016" duration-ms="231" started-at="2022-03-15T15:07:21 IST" description="Validate the scroll down and scroll Up  " finished-at="2022-03-15T15:07:21 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCase016 -->
+        <test-method status="PASS" signature="complete()[pri:0, instance:com.test.Test@650e52]" name="complete" is-config="true" duration-ms="1433" started-at="2022-03-15T15:07:21 IST" finished-at="2022-03-15T15:07:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- complete -->
+      </class> <!-- com.test.Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
